@@ -1,0 +1,15 @@
+{
+  "items":[
+    {
+      "itemId":1,
+      "itemName":"Keyboard",
+      "itemPrice":50
+    },
+     {
+      "itemId":2,
+      "itemName":"Monitor",
+      "itemPrice":150
+    }
+  
+  ]
+}
